@@ -1,2 +1,3 @@
 Este é o meu primeiro arquivo.
 Aprendendo sobre Git.
+Aprendendo super bem sobre Git.
